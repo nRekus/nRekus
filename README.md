@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Just my personal GitHub where i (try to) share some projects that i do in my free time.
 <!--
 **nRekus/nRekus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
